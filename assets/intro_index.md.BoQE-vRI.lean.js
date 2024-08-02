@@ -1,0 +1,1 @@
+import{_ as e,o as i,c as t,aQ as l}from"./chunks/framework.prkmRa_N.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"intro/index.md","filePath":"intro/index.md"}'),o={name:"intro/index.md"},a=l("",3),c=[a];function d(n,r,_,s,p,h){return i(),t("div",null,c)}const f=e(o,[["render",d]]);export{m as __pageData,f as default};
